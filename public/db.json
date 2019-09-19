@@ -1,0 +1,104 @@
+{
+  "Data": [
+    {
+      "ProjectTitle": "Balannup wastewater pipeline",
+      "ShortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Location": "Joondalup",
+      "Image": {
+        "Alt": "",
+        "Border": "",
+        "Class": "",
+        "Height": 190,
+        "HSpace": 0,
+        "Src": "/-/media/WaterCorp/Image-Gallery/kitten.jpg",
+        "VSpace": 0,
+        "Width": 265,
+        "MediaId": "8099572a-588b-4ef4-adac-8f75111b831c",
+        "Title": "",
+        "Language": { "Name": "en" },
+        "MediaExists": true
+      },
+      "PageUrl": "/Outages-and-works/Ongoing-Works/Balannup-wastewater-pipeline"
+    },
+    {
+      "ProjectTitle": "Geraldton new water supply main",
+      "ShortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Location": "City Beach",
+      "Image": {
+        "Alt": "",
+        "Border": "",
+        "Class": "",
+        "Height": 183,
+        "HSpace": 0,
+        "Src": "/-/media/WaterCorp/Image-Gallery/flower.jpg",
+        "VSpace": 0,
+        "Width": 276,
+        "MediaId": "35f117ad-d7b4-4d6b-928d-f4ffd305fb33",
+        "Title": "",
+        "Language": { "Name": "en" },
+        "MediaExists": true
+      },
+      "PageUrl": "/Outages-and-works/Ongoing-Works/Geraldton-new-water-supply-main"
+    },
+    {
+      "ProjectTitle": "Groundwater Replenishment Scheme Stage 2 Expansion",
+      "ShortDescription": "We're rolling out Stage 2 of the Groundwater Replenishment Scheme, which involves constructing a second Advanced Water Recycling Plant at the Beenyup facility, drilling new bores for recharge and monitoring and building a new 13km pipeline.",
+      "Location": "Joondalup",
+      "Image": {
+        "Alt": "",
+        "Border": "",
+        "Class": "",
+        "Height": 183,
+        "HSpace": 0,
+        "Src": "/-/media/WaterCorp/Image-Gallery/nature4.jpg",
+        "VSpace": 0,
+        "Width": 275,
+        "MediaId": "5c0bbca5-5d6f-4391-8ca2-9212b4c954cb",
+        "Title": "",
+        "Language": { "Name": "en" },
+        "MediaExists": true
+      },
+      "PageUrl": "/Outages-and-works/Ongoing-Works/Groundwater-Replenishment-Scheme-Stage-2-Expansion"
+    },
+    {
+      "ProjectTitle": "Infill Sewerage Program",
+      "ShortDescription": "The Infill Sewerage Program has enabled more than 95,000 households in metropolitan and regional areas of WA access to the central wastewater system.",
+      "Location": "City Beach",
+      "Image": {
+        "Alt": "",
+        "Border": "",
+        "Class": "",
+        "Height": 194,
+        "HSpace": 0,
+        "Src": "/-/media/WaterCorp/Image-Gallery/swan.jpg",
+        "VSpace": 0,
+        "Width": 259,
+        "MediaId": "96103cca-6209-42d5-865a-7f71c9c8caaa",
+        "Title": "",
+        "Language": { "Name": "en" },
+        "MediaExists": true
+      },
+      "PageUrl": "/Outages-and-works/Ongoing-Works/Infill-Sewerage-Program"
+    },
+    {
+      "ProjectTitle": "Walpole ManukaLife",
+      "ShortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Location": "Walpole",
+      "Image": {
+        "Alt": "",
+        "Border": "",
+        "Class": "",
+        "Height": 194,
+        "HSpace": 0,
+        "Src": "/-/media/WaterCorp/Image-Gallery/numbers.png",
+        "VSpace": 0,
+        "Width": 259,
+        "MediaId": "2c907524-da54-4678-a263-67cc0b71ab37",
+        "Title": "",
+        "Language": { "Name": "en" },
+        "MediaExists": true
+      },
+      "PageUrl": "/Outages-and-works/Ongoing-Works/Walpole-ManukaLife"
+    }
+  ]
+}
